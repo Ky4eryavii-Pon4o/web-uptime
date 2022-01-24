@@ -22,19 +22,19 @@
     "url": "http://grishchuk.com.ua",
     "icon": "https://favicons.githubusercontent.com/grishchuk.com.ua",
     "slug": "grishchuk",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1245,
-    "timeDay": 1112,
-    "timeWeek": 1160,
-    "timeMonth": 1245,
-    "timeYear": 1245,
+    "status": "up",
+    "uptime": "98.28%",
+    "uptimeDay": "74.57%",
+    "uptimeWeek": "96.37%",
+    "uptimeMonth": "98.28%",
+    "uptimeYear": "98.28%",
+    "time": 1243,
+    "timeDay": 1162,
+    "timeWeek": 1167,
+    "timeMonth": 1243,
+    "timeYear": 1243,
     "dailyMinutesDown": {
-      "2022-01-24": 0
+      "2022-01-24": 366
     }
   },
   {
