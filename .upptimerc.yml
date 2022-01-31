@@ -5,6 +5,7 @@ repo: web-uptime # The name of this repository
 sites:
   - name: IT.Patap
     url: https://it.patap.org.ua
+    icon: https://it.patap.org.ua/favicon.png
   - name: Grishchuk
     url: http://grishchuk.com.ua
   - name: Hacker News
