@@ -8,10 +8,11 @@ sites:
     icon: https://it.patap.org.ua/favicon.png
   - name: Grishchuk
     url: http://grishchuk.com.ua
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: ky4eryavii
+    url: https://ky4eryavii-pon4o.github.io/
+  - name: Neocities
+    url: https://patap.neocities.org/
+    icon: https://patap.neocities.org/assets/favicon.png
 
 status-website:
   theme: dark
@@ -27,6 +28,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Blog
+      href: https://it.patap.org.ua
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
