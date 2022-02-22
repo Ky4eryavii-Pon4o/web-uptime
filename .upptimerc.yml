@@ -13,6 +13,8 @@ sites:
   - name: Neocities
     url: https://patap.neocities.org/
     icon: https://patap.neocities.org/assets/favicon.png
+  - name: Patap
+    url: https://patap.org.ua
 
 status-website:
   theme: dark
