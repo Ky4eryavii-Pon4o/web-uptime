@@ -28,11 +28,11 @@
     "icon": "https://favicons.githubusercontent.com/grishchuk.com.ua",
     "slug": "grishchuk",
     "status": "up",
-    "uptime": "94.02%",
+    "uptime": "94.07%",
     "uptimeDay": "98.28%",
     "uptimeWeek": "99.33%",
     "uptimeMonth": "91.56%",
-    "uptimeYear": "94.02%",
+    "uptimeYear": "94.07%",
     "time": 1319,
     "timeDay": 1069,
     "timeWeek": 1139,
@@ -93,9 +93,9 @@
     "url": "https://patap.org.ua",
     "icon": "https://favicons.githubusercontent.com/patap.org.ua",
     "slug": "patap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -104,6 +104,8 @@
     "timeWeek": 281,
     "timeMonth": 281,
     "timeYear": 281,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-26": 0
+    }
   }
 ]
