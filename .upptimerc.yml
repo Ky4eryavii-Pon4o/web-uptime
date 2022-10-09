@@ -6,8 +6,8 @@ sites:
   - name: IT.Patap
     url: https://it.patap.org.ua
     icon: https://it.patap.org.ua/favicon.png
-  - name: Grishchuk
-    url: http://grishchuk.com.ua
+  #- name: Grishchuk
+  # url: http://grishchuk.com.ua
   - name: ky4eryavii
     url: https://ky4eryavii-pon4o.github.io/
   - name: Neocities
