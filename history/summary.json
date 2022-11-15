@@ -53,9 +53,9 @@
     "url": "https://patap.neocities.org/",
     "icon": "https://patap.neocities.org/assets/favicon.png",
     "slug": "neocities",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -65,6 +65,7 @@
     "timeMonth": 981,
     "timeYear": 377,
     "dailyMinutesDown": {
+      "2022-11-15": 0,
       "2022-02-17": 18
     }
   },
