@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 582,
-    "timeDay": 353,
-    "timeWeek": 642,
-    "timeMonth": 801,
+    "time": 583,
+    "timeDay": 584,
+    "timeWeek": 640,
+    "timeMonth": 811,
     "timeYear": 611,
-    "dailyMinutesDown": {
-      "2022-10-05": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ky4eryavii",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 96,
-    "timeDay": 61,
-    "timeWeek": 76,
-    "timeMonth": 170,
+    "timeDay": 151,
+    "timeWeek": 83,
+    "timeMonth": 174,
     "timeYear": 99,
     "dailyMinutesDown": {}
   },
@@ -49,10 +47,10 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.90%",
     "time": 728,
-    "timeDay": 291,
-    "timeWeek": 339,
-    "timeMonth": 606,
-    "timeYear": 953,
+    "timeDay": 361,
+    "timeWeek": 308,
+    "timeMonth": 613,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2023-09-17": 62,
       "2023-08-06": 23,
@@ -83,10 +81,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 697,
-    "timeDay": 287,
-    "timeWeek": 640,
-    "timeMonth": 722,
-    "timeYear": 699,
+    "timeDay": 605,
+    "timeWeek": 588,
+    "timeMonth": 733,
+    "timeYear": 697,
     "dailyMinutesDown": {}
   }
 ]
