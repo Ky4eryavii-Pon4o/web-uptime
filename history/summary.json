@@ -4,9 +4,9 @@
     "url": "https://it.patap.org.ua",
     "icon": "https://it.patap.org.ua/favicon.png",
     "slug": "it-patap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 406,
     "timeMonth": 511,
     "timeYear": 599,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "ky4eryavii",
