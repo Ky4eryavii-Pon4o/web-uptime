@@ -4,19 +4,19 @@
     "url": "https://it.patap.org.ua",
     "icon": "https://it.patap.org.ua/favicon.png",
     "slug": "it-patap",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 601,
-    "timeDay": 253,
-    "timeWeek": 406,
-    "timeMonth": 511,
+    "time": 602,
+    "timeDay": 426,
+    "timeWeek": 430,
+    "timeMonth": 514,
     "timeYear": 599,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 12
     }
   },
   {
