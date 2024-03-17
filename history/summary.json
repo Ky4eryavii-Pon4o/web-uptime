@@ -6,18 +6,16 @@
     "slug": "it-patap",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 602,
-    "timeDay": 426,
-    "timeWeek": 430,
-    "timeMonth": 514,
-    "timeYear": 599,
-    "dailyMinutesDown": {
-      "2024-03-16": 12
-    }
+    "time": 603,
+    "timeDay": 783,
+    "timeWeek": 482,
+    "timeMonth": 526,
+    "timeYear": 600,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ky4eryavii",
@@ -31,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 28,
-    "timeWeek": 56,
+    "timeDay": 72,
+    "timeWeek": 63,
     "timeMonth": 85,
     "timeYear": 96,
     "dailyMinutesDown": {}
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 717,
-    "timeDay": 40,
-    "timeWeek": 170,
-    "timeMonth": 195,
-    "timeYear": 599,
+    "time": 714,
+    "timeDay": 387,
+    "timeWeek": 204,
+    "timeMonth": 203,
+    "timeYear": 586,
     "dailyMinutesDown": {
       "2023-10-07": 51,
       "2023-09-17": 62,
@@ -74,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 749,
-    "timeDay": 223,
-    "timeWeek": 436,
-    "timeMonth": 577,
-    "timeYear": 785,
+    "time": 750,
+    "timeDay": 1232,
+    "timeWeek": 523,
+    "timeMonth": 589,
+    "timeYear": 786,
     "dailyMinutesDown": {}
   }
 ]
