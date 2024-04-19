@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 588,
-    "timeDay": 547,
+    "timeDay": 380,
     "timeWeek": 439,
-    "timeMonth": 494,
+    "timeMonth": 490,
     "timeYear": 588,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 129,
-    "timeWeek": 97,
+    "timeDay": 41,
+    "timeWeek": 95,
     "timeMonth": 86,
     "timeYear": 94,
     "dailyMinutesDown": {}
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 663,
-    "timeDay": 264,
-    "timeWeek": 261,
+    "timeDay": 221,
+    "timeWeek": 264,
     "timeMonth": 187,
     "timeYear": 445,
     "dailyMinutesDown": {
@@ -65,17 +65,15 @@
     "slug": "patap",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 747,
-    "timeDay": 507,
-    "timeWeek": 575,
-    "timeMonth": 600,
+    "timeDay": 410,
+    "timeWeek": 542,
+    "timeMonth": 597,
     "timeYear": 768,
-    "dailyMinutesDown": {
-      "2024-04-18": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
