@@ -4,18 +4,20 @@
     "url": "https://it.patap.org.ua",
     "icon": "https://it.patap.org.ua/favicon.png",
     "slug": "it-patap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 579,
-    "timeDay": 331,
-    "timeWeek": 447,
-    "timeMonth": 505,
-    "timeYear": 583,
-    "dailyMinutesDown": {}
+    "time": 583,
+    "timeDay": 1333,
+    "timeWeek": 683,
+    "timeMonth": 564,
+    "timeYear": 587,
+    "dailyMinutesDown": {
+      "2024-05-20": 0
+    }
   },
   {
     "name": "ky4eryavii",
