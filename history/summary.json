@@ -40,9 +40,9 @@
     "url": "https://patap.neocities.org/",
     "icon": "https://patap.neocities.org/assets/favicon.png",
     "slug": "neocities",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 316,
     "timeMonth": 274,
     "timeYear": 251,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-28": 0
+    }
   },
   {
     "name": "Patap",
@@ -59,10 +61,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/patap.org.ua.ico",
     "slug": "patap",
     "status": "up",
-    "uptime": "99.06%",
+    "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.47%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "97.44%",
     "time": 954,
     "timeDay": 656,
