@@ -40,19 +40,19 @@
     "url": "https://patap.neocities.org/",
     "icon": "https://patap.neocities.org/assets/favicon.png",
     "slug": "neocities",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 334,
-    "timeDay": 307,
-    "timeWeek": 316,
-    "timeMonth": 274,
-    "timeYear": 251,
+    "timeDay": 471,
+    "timeWeek": 356,
+    "timeMonth": 285,
+    "timeYear": 252,
     "dailyMinutesDown": {
-      "2024-11-28": 0
+      "2024-11-28": 15
     }
   },
   {
@@ -64,7 +64,7 @@
     "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.58%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "97.44%",
     "time": 954,
     "timeDay": 656,
