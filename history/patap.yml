@@ -1,7 +1,7 @@
 url: https://patap.org.ua
-status: up
-code: 200
-responseTime: 1012
-lastUpdated: 2025-02-07T23:09:04.009Z
+status: down
+code: 503
+responseTime: 8248
+lastUpdated: 2025-02-08T04:50:37.542Z
 startTime: 2022-02-22T03:33:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
