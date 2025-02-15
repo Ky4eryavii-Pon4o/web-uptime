@@ -4,9 +4,9 @@
     "url": "https://it.patap.org.ua",
     "icon": "https://it.patap.org.ua/favicon.png",
     "slug": "it-patap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 875,
     "timeMonth": 827,
     "timeYear": 576,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-15": 0
+    }
   },
   {
     "name": "ky4eryavii",
@@ -61,18 +63,19 @@
     "url": "https://patap.org.ua",
     "icon": "https://icons.duckduckgo.com/ip3/patap.org.ua.ico",
     "slug": "patap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "97.43%",
     "time": 1013,
     "timeDay": 544,
-    "timeWeek": 3192,
+    "timeWeek": 861,
     "timeMonth": 1436,
     "timeYear": 1039,
     "dailyMinutesDown": {
+      "2025-02-15": 0,
       "2025-02-08": 19,
       "2025-02-07": 18,
       "2024-10-28": 1182,
