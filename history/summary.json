@@ -43,16 +43,16 @@
     "url": "https://patap.neocities.org/",
     "icon": "https://patap.neocities.org/assets/favicon.png",
     "slug": "neocities",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 241,
-    "timeDay": 205,
-    "timeWeek": 194,
-    "timeMonth": 162,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "58.10%",
+    "uptimeWeek": "94.01%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "99.80%",
+    "time": 240,
+    "timeDay": 149,
+    "timeWeek": 181,
+    "timeMonth": 159,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2025-06-06": 30,
@@ -60,7 +60,7 @@
       "2025-06-16": 122,
       "2025-06-15": 82,
       "2025-10-19": 22,
-      "2026-06-05": 0
+      "2026-06-05": 603
     }
   },
   {
@@ -68,16 +68,16 @@
     "url": "https://patap.org.ua",
     "icon": "https://icons.duckduckgo.com/ip3/patap.org.ua.ico",
     "slug": "patap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "54.05%",
+    "uptimeDay": "87.51%",
     "uptimeWeek": "74.45%",
     "uptimeMonth": "86.88%",
     "uptimeYear": "98.89%",
-    "time": 921,
-    "timeDay": 711,
+    "time": 920,
+    "timeDay": 782,
     "timeWeek": 613,
-    "timeMonth": 680,
+    "timeMonth": 679,
     "timeYear": 895,
     "dailyMinutesDown": {
       "2026-04-01": 57,
@@ -99,7 +99,8 @@
       "2026-06-01": 124,
       "2026-06-02": 289,
       "2026-06-03": 297,
-      "2026-06-04": 662
+      "2026-06-04": 662,
+      "2026-06-05": 0
     }
   }
 ]
