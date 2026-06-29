@@ -66,10 +66,10 @@
     "slug": "patap",
     "status": "down",
     "uptime": "98.63%",
-    "uptimeDay": "75.46%",
-    "uptimeWeek": "78.04%",
-    "uptimeMonth": "73.06%",
-    "uptimeYear": "97.18%",
+    "uptimeDay": "68.40%",
+    "uptimeWeek": "77.03%",
+    "uptimeMonth": "72.83%",
+    "uptimeYear": "97.16%",
     "time": 865,
     "timeDay": 644,
     "timeWeek": 552,
@@ -117,7 +117,7 @@
       "2026-06-26": 352,
       "2026-06-27": 228,
       "2026-06-28": 353,
-      "2026-06-29": 0
+      "2026-06-29": 102
     }
   }
 ]
