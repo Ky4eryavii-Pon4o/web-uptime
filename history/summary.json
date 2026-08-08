@@ -65,11 +65,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/patap.org.ua.ico",
     "slug": "patap",
     "status": "down",
-    "uptime": "99.06%",
-    "uptimeDay": "51.03%",
-    "uptimeWeek": "30.38%",
+    "uptime": "99.05%",
+    "uptimeDay": "47.78%",
+    "uptimeWeek": "29.92%",
     "uptimeMonth": "51.86%",
-    "uptimeYear": "95.79%",
+    "uptimeYear": "95.78%",
     "time": 775,
     "timeDay": 644,
     "timeWeek": 718,
@@ -109,7 +109,7 @@
       "2026-08-05": 922,
       "2026-08-06": 920,
       "2026-08-07": 705,
-      "2026-08-08": 0
+      "2026-08-08": 47
     }
   }
 ]
