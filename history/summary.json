@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 801,
-    "timeDay": 733,
-    "timeWeek": 893,
-    "timeMonth": 851,
-    "timeYear": 813,
+    "time": 800,
+    "timeDay": 412,
+    "timeWeek": 833,
+    "timeMonth": 850,
+    "timeYear": 812,
     "dailyMinutesDown": {
       "2025-10-20": 36,
       "2026-05-19": 83
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 105,
-    "timeWeek": 100,
+    "time": 126,
+    "timeDay": 68,
+    "timeWeek": 96,
     "timeMonth": 105,
-    "timeYear": 121,
+    "timeYear": 120,
     "dailyMinutesDown": {}
   },
   {
@@ -50,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 237,
-    "timeDay": 73,
-    "timeWeek": 147,
-    "timeMonth": 273,
-    "timeYear": 229,
+    "timeDay": 589,
+    "timeWeek": 203,
+    "timeMonth": 286,
+    "timeYear": 230,
     "dailyMinutesDown": {
       "2025-10-19": 22,
       "2026-06-05": 603
@@ -64,19 +64,19 @@
     "url": "https://patap.org.ua",
     "icon": "https://icons.duckduckgo.com/ip3/patap.org.ua.ico",
     "slug": "patap",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "39.65%",
-    "uptimeWeek": "34.93%",
-    "uptimeMonth": "66.05%",
-    "uptimeYear": "97.17%",
-    "time": 718,
-    "timeDay": 883,
-    "timeWeek": 650,
-    "timeMonth": 607,
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "57.28%",
+    "uptimeWeek": "36.46%",
+    "uptimeMonth": "66.65%",
+    "uptimeYear": "97.22%",
+    "time": 717,
+    "timeDay": 916,
+    "timeWeek": 661,
+    "timeMonth": 609,
     "timeYear": 699,
     "dailyMinutesDown": {
-      "2026-08-17": 440,
+      "2026-08-17": 177,
       "2026-08-18": 650,
       "2026-08-19": 545,
       "2026-08-20": 581,
@@ -94,7 +94,8 @@
       "2026-09-01": 949,
       "2026-09-02": 1056,
       "2026-09-03": 960,
-      "2026-09-04": 636
+      "2026-09-04": 636,
+      "2026-09-05": 0
     }
   }
 ]
