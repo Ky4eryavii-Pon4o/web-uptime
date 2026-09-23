@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 808,
-    "timeDay": 1038,
+    "timeDay": 1136,
     "timeWeek": 868,
     "timeMonth": 872,
     "timeYear": 819,
@@ -32,7 +32,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 276,
+    "timeDay": 292,
     "timeWeek": 162,
     "timeMonth": 116,
     "timeYear": 122,
@@ -50,7 +50,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 233,
-    "timeDay": 147,
+    "timeDay": 221,
     "timeWeek": 281,
     "timeMonth": 217,
     "timeYear": 230,
@@ -66,12 +66,12 @@
     "slug": "patap",
     "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "43.42%",
-    "uptimeWeek": "60.80%",
-    "uptimeMonth": "54.71%",
-    "uptimeYear": "95.94%",
+    "uptimeDay": "41.05%",
+    "uptimeWeek": "59.52%",
+    "uptimeMonth": "54.59%",
+    "uptimeYear": "95.91%",
     "time": 717,
-    "timeDay": 507,
+    "timeDay": 474,
     "timeWeek": 623,
     "timeMonth": 608,
     "timeYear": 692,
@@ -109,7 +109,7 @@
       "2026-09-20": 199,
       "2026-09-21": 747,
       "2026-09-22": 815,
-      "2026-09-23": 0
+      "2026-09-23": 129
     }
   }
 ]
