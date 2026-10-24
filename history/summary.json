@@ -12,9 +12,9 @@
     "uptimeYear": "99.98%",
     "time": 810,
     "timeDay": 728,
-    "timeWeek": 853,
-    "timeMonth": 862,
-    "timeYear": 833,
+    "timeWeek": 865,
+    "timeMonth": 865,
+    "timeYear": 834,
     "dailyMinutesDown": {
       "2026-05-19": 83
     }
@@ -32,8 +32,8 @@
     "uptimeYear": "100.00%",
     "time": 127,
     "timeDay": 116,
-    "timeWeek": 101,
-    "timeMonth": 119,
+    "timeWeek": 111,
+    "timeMonth": 121,
     "timeYear": 122,
     "dailyMinutesDown": {}
   },
@@ -50,9 +50,9 @@
     "uptimeYear": "99.89%",
     "time": 230,
     "timeDay": 103,
-    "timeWeek": 178,
-    "timeMonth": 206,
-    "timeYear": 230,
+    "timeWeek": 176,
+    "timeMonth": 207,
+    "timeYear": 231,
     "dailyMinutesDown": {
       "2026-06-05": 603
     }
@@ -62,16 +62,16 @@
     "url": "https://patap.org.ua",
     "icon": "https://icons.duckduckgo.com/ip3/patap.org.ua.ico",
     "slug": "patap",
-    "status": "down",
+    "status": "up",
     "uptime": "98.72%",
-    "uptimeDay": "90.38%",
-    "uptimeWeek": "71.96%",
-    "uptimeMonth": "70.40%",
-    "uptimeYear": "94.04%",
+    "uptimeDay": "89.77%",
+    "uptimeWeek": "70.50%",
+    "uptimeMonth": "70.07%",
+    "uptimeYear": "94.01%",
     "time": 708,
-    "timeDay": 551,
-    "timeWeek": 678,
-    "timeMonth": 613,
+    "timeDay": 611,
+    "timeWeek": 688,
+    "timeMonth": 616,
     "timeYear": 680,
     "dailyMinutesDown": {
       "2026-08-25": 171,
@@ -133,7 +133,8 @@
       "2026-10-20": 370,
       "2026-10-21": 612,
       "2026-10-22": 122,
-      "2026-10-23": 58
+      "2026-10-23": 141,
+      "2026-10-24": 64
     }
   }
 ]
